@@ -1,0 +1,6 @@
+build/
+dist/
+*.spec
+result_*.png
+__pycache__/
+*.pyc
